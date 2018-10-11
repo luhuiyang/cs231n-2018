@@ -8,6 +8,9 @@
 
 ## 课程资料：
 课程主页： http://cs231n.stanford.edu/
+
 course note： http://cs231n.github.io/
+
 知乎翻译： https://zhuanlan.zhihu.com/p/21930884
+
 推荐b站的视频观看  https://www.bilibili.com/video/av17204303/
