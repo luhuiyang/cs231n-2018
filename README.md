@@ -6,7 +6,7 @@
 
 原版内容无删减，有极少部分添加内容
 
-2018.10.11 完成python_numpy_tutorial的jupyter汉化版本
+2018.10.11 完成[python_numpy_tutorial](lecture_2_Image_Classification/Python_Numpy_Tutorial.ipynb)的jupyter汉化版本
 
 ## 课程资料：
 课程主页： http://cs231n.stanford.edu/
